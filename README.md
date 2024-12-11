@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @CN-Aryz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-CN-Aryz/CN-Aryz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @CN-Aryz  
+- 🌟 Passionate about: Creating productivity tools and exploring innovative frontend development.  
+- 🌱 Currently learning: C# and advancing my frontend skills.  
+- 🛠️ Projects: Working on VRChat map creation and developing a comprehensive frontend tutorial based on the DIKW framework.  
+- 🤝 Collaboration: Currently not seeking collaboration, but always open to exchanging ideas.  
+- 📫 How to reach me: aryz0713@gmail.com  
