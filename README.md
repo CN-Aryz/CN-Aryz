@@ -3,4 +3,4 @@
 - 🌱 Currently learning: C# and advancing my frontend skills.  
 - 🛠️ Projects: Working on VRChat map creation and developing a comprehensive frontend tutorial based on the DIKW framework.  
 - 🤝 Collaboration: Currently not seeking collaboration, but always open to exchanging ideas.  
-- 📫 How to reach me: aryz0713@gmail.com  
+- 📫 How to reach me: aryz.dev@gmail.com  
