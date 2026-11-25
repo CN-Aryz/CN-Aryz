@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CN-Aryz  
+- 👋 Hi, I’m Aryz  
 - 🌟 Passionate about: Creating productivity tools and exploring innovative frontend development.  
 - 🌱 Currently learning: C# and advancing my frontend skills.  
 - 🛠️ Projects: Working on VRChat map creation and developing a comprehensive frontend tutorial based on the DIKW framework.  
